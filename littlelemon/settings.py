@@ -27,7 +27,7 @@ DEBUG = True
 
 #ALLOWED_HOSTS = ['littlelemon-restaurent.onrender.com']
 ALLOWED_HOSTS = ['127.0.0.1',
-                 'littlelemon-restaurent.onrender.com'
+                 'litlemon.onrender.com'
 ]
 
 
