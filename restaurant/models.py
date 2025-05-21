@@ -17,5 +17,5 @@ class Menu(models.Model):
    price = models.IntegerField()
    description = models.CharField(max_length=1000,default='')
    def __str__(self):
-      return {{self.name}} 
+      return self.name
 # Add code to create Menu model
